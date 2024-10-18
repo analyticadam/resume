@@ -1,0 +1,25 @@
+* {
+    margin:auto;
+    padding:0;
+}
+
+html {
+    width: 85%;
+    margin:auto;
+    background-color: black;
+}
+
+body {
+    padding: 5px;
+    width: fit-content;
+    margin: auto;
+    color:whitesmoke;
+}
+
+h1 {
+    padding: 5px 0;
+}
+
+#sect-1 {
+    display: block;
+}
